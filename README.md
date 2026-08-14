@@ -1,16 +1,31 @@
-## Hi there 👋
+# Gabriel Araújo Saldanha (Saldanha, G. A.)
 
-<!--
-**SaldanhaGA/SaldanhaGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master's Student in Computer Science** at Universidade Federal de Ouro Preto (UFOP)
 
-Here are some ideas to get you started:
+Ouro Preto, Minas Gerais, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+**B.Sc. in Computer Science** at Universidade Federal de Ouro Preto (UFOP)
+
+**Computer Network Technician** at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+
+## Areas of Interest
+
+Formal Methods
+
+Theorem Proving
+
+Compilers
+
+Programming Languages
+
+Program Verification
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/gabriel-araujo-saldanha/
+
+ORCID: https://orcid.org/0009-0009-1965-7882
+
+Email: gabrielsaldanha373@gmail.com
